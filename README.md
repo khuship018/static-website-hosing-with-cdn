@@ -58,6 +58,8 @@ You will see an output similar to this.
 
 
 ~ ADDING CLOUDFRONT
+
+
 **What is CloudFront?**
 CloudFront is AWS’s Content Delivery Network (CDN).
 Its job: take your website files (HTML, CSS, JS, images) from S3 and deliver them super fast to users worldwide.
